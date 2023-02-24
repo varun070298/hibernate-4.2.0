@@ -1,0 +1,10 @@
+#org.springsource.ide.eclipse.gradle.core.preferences.GradleImportPreferences
+#Thu Nov 15 15:32:44 EST 2012
+addResourceFilters=true
+afterTasks=afterEclipseImport;
+beforeTasks=cleanEclipse;eclipse;
+enableAfterTasks=true
+enableBeforeTasks=true
+enableDSLD=false
+enableDependendencyManagement=true
+projects=documentation;hibernate-c3p0;hibernate-core;hibernate-ehcache;hibernate-envers;hibernate-infinispan;hibernate-proxool;hibernate-testing;
